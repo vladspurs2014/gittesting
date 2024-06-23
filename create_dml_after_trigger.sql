@@ -1,4 +1,4 @@
-CREATE TABLE AuditBudget (
+CREATE TABLE AuditBudget ((
     ProjectNumber int NULL,
     UserName varchar(16) NULL,
     Date DATETIME NULL,
