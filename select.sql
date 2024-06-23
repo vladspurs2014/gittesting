@@ -1,4 +1,4 @@
-use [TreningSUBD];
+use [TreningSUBD];end
 begin transaction;
 
 /*update Project
